@@ -1,0 +1,1 @@
+{"number": "age > 18", "left": {"number": "man?", "left": ["\u30d3\u30fc\u30eb\u304a\u3059\u3059\u3081\uff01", null, null], "right": ["\u30b5\u30ef\u304a\u3059\u3059\u3081\uff01", null, null]}, "right": ["\u304a\u9152\u306f\u98f2\u3081\u307e\u305b\u3093!", null, null]}
